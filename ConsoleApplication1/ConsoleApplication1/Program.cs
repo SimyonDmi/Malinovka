@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Oh, Hi, Simyon");
+            Console.WriteLine("Oh, Hi, Roma Roma Roman");
             Console.ReadKey();
         }
     }
